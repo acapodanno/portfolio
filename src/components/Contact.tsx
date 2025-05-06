@@ -61,38 +61,6 @@ const Contact: React.FC = () => {
                     </a>
                   </div>
                 </div>
-                
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 bg-indigo-100 dark:bg-indigo-900/50 p-3 rounded-full">
-                    <Phone className="h-6 w-6 text-indigo-600 dark:text-indigo-400" />
-                  </div>
-                  <div className="ml-4">
-                    <h4 className="text-lg font-medium text-gray-800 dark:text-white">Telefono</h4>
-                    <a href="tel:+393891987818" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
-                      (+39) 389 198 7818
-                    </a>
-                  </div>
-                </div>
-                
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 bg-indigo-100 dark:bg-indigo-900/50 p-3 rounded-full">
-                    <MapPin className="h-6 w-6 text-indigo-600 dark:text-indigo-400" />
-                  </div>
-                  <div className="ml-4">
-                    <h4 className="text-lg font-medium text-gray-800 dark:text-white">Indirizzo</h4>
-                    <p className="text-gray-600 dark:text-gray-300">
-                      Via del Campo, 80030<br />
-                      Tufino, Italia
-                    </p>
-                  </div>
-                </div>
-
-                <div className="pt-4">
-                  <p className="text-sm text-gray-600 dark:text-gray-300">
-                    Data di nascita: 30/08/1995<br />
-                    Nazionalità: Italiana
-                  </p>
-                </div>
               </div>
               
               <div className="mt-12">
