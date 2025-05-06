@@ -28,7 +28,7 @@ const About: React.FC = () => {
               <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">La Mia Storia</h3>
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
                 Sono uno sviluppatore software con esperienza nello sviluppo di applicazioni web e mobile. 
-                Attualmente lavoro come sviluppatore backend presso EMM Informatica ITConsulting SRL, 
+                Attualmente lavoro come sviluppatore backend presso itconsulting SRL, 
                 dove mi occupo di sviluppo con Spring Boot, microservizi e Azure.
               </p>
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
